@@ -143,7 +143,7 @@ When running this application with node server/app.js, you will have a quick CRU
 More in depth documentation is available [at rangle.github.io/koast-documentation](http://rangle.github.io/koast-documentation). This documentation goes into more details about how to configure koast, the features supported and the other modules that are available.
 
 
-- [Basics](http://rangle.github.io/koast-documentation/basics)
+- [Basics](http://http://rangle.github.io/koast-documentation/documentation/basics/getting-started.html)
   - [Getting Started](http://rangle.github.io/koast-documentation/documentation/basics/getting-started.html#getting-started)
   - [Koast Init](http://rangle.github.io/koast-documentation/documentation/basics/getting-started.html#koast-init)
   - [Manual Creation](http://rangle.github.io/koast-documentation/documentation/basics/getting-started.html#manual-creation)
